@@ -9,3 +9,6 @@ npm-debug.log
 
 # IntelliJ
 .idea
+
+build/
+,gradle/
